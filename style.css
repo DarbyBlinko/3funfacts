@@ -1,7 +1,18 @@
 body{
-  background-color: slateblue;
+  background-color: rgb(49, 23, 219);
   font-family: 'Audiowide', cursive;
 }
 .text-center{
+  padding: 5px;
   text-align: center;
+}
+.image-props{
+  padding: 30px;
+  border-radius: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 500px;
+  width: 500px;
 }
